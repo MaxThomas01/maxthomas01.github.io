@@ -30,7 +30,7 @@
 	/* accent colors */
 	--accent-1: hsl(190, 80%, 60%); /* links */
 	--accent-2: hsl(190, 80%, 48%); /* general unread/mention elements */
-	--accent-3: hsl(190, 80%, 42%); /* accent buttons */
+	--accent-3: hsl(359, 70%, 42%); /* accent buttons Active VOIP */
 	--accent-4: hsl(190, 80%, 36%); /* accent buttons when hovered */
 	--accent-5: hsl(190, 80%, 30%); /* accent buttons when clicked */
 	--mention: hsla(190, 80%, 52%, 0.1); /* mentions & mention messages */
